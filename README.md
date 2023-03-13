@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @eliaspereyrap
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning Solidity, Hardhat & Javascript
-- 💞️ I’m looking to collaborate on Web3 projects
-- 📫 How to reach me ...
+# Hi there, I'm Elías Pereyra👋
 
-<!---
-eliaspereyrap/eliaspereyrap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a self-taught student interested in front-end development and blockchain technologies.
+
+I have experience developing various types of web-based applications, including websites, browser games, and decentralized applications (DApps) on the Ethereum blockchain.
+
+# About Me
+- 🎓 Currently studying on my own
+- 💻 Interested in blockchain technologies and their applications
+- 🚀 Passionate about creating beautiful and responsive user interfaces
+- 📈 Always looking to improve my skills and learn new technologies
+
+# Skills
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- Solidity
+- Hardhat
+
+# Contact Me
+📧 Email: eliasismael.pereyra@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/eliaspereyra/
