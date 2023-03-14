@@ -1,4 +1,4 @@
-# Hi there, I'm Elías Pereyra👋
+# 👋 Hi, I'm Elías Pereyra, frontend & blockchain developer
 
 I'm a self-taught student interested in front-end development and blockchain technologies.
 
