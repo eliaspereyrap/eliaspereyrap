@@ -13,9 +13,10 @@ I have experience developing various types of web-based applications, including 
 # Skills
 - HTML5
 - CSS3
-- JavaScript
-- React.js
-- Node.js
+- Typescript
+- React
+- Node
+- GIT
 - Solidity
 - Hardhat
 
