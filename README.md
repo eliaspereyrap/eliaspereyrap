@@ -3,6 +3,7 @@
 I'm a self-taught student interested in front-end development and blockchain technologies.
 
 I have experience developing various types of web-based applications, including websites, browser games, and decentralized applications (DApps) on the Ethereum blockchain.
+I like working with TypeScript and React
 
 # About Me
 - 🎓 Currently studying blockchain development
