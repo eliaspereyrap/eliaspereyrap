@@ -1,9 +1,7 @@
-# 👋 Hi, I'm Elías Pereyra, frontend & blockchain developer
+# 👋 Hi, I'm Elías Pereyra, Frontend & Blockchain Developer
 
-I'm a self-taught student interested in front-end development and blockchain technologies.
-
-I have experience developing various types of web-based applications, including websites, browser games, and decentralized applications (DApps) on the Ethereum blockchain.
-I like working with TypeScript and React
+I have experience developing various types of web-based applications, including responsive websites, browser games, and decentralized applications (DApps) on the Ethereum blockchain.
+I like working with TypeScript and React, TailwindCSS and frameworks like Next, Hardhat and Foundry.
 
 # About Me
 - 🎓 Currently studying blockchain development
@@ -14,12 +12,14 @@ I like working with TypeScript and React
 # Skills
 - HTML5
 - CSS3
+- TailwindCSS
 - Typescript
 - React
 - Node
 - GIT
 - Solidity
 - Hardhat
+- Foundry
 
 # Contact Me
 📧 Email: eliasismael.pereyra@gmail.com
